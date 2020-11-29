@@ -6,7 +6,7 @@ Process all jpg photos from `in` to `out` directory to be easily usable in a Dig
 
 - checks the photo orientation
 - change size 800x600 / 450x600
-- saves the result to `processed` folder
+- saves the result to the `out` folder
 
 ## Framework and libraries
 
